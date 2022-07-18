@@ -1,1 +1,1 @@
-# Graph4CR
+# The source code will be released as soon
